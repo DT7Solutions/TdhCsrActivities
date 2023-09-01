@@ -1,0 +1,273 @@
+@media (max-width:1200px){
+.creative-detail > h4 {font-size: 30px;margin-bottom:10px}
+.creative-detail > p{font-size: 13px;line-height: 22px;}
+.toggle {margin-top: 10px}
+.creative-detail > span{font-size: 14px;margin-bottom:0}
+.fact strong {font-size:18px}
+.count {font-size:35px}
+.mockup-detail > h4{font-size:25px}
+.mockup-detail > span{font-size:15px}
+.sale-box-text > i {font-size:18px}
+.sale-box-text > strong {font-size: 40px;line-height: 40px}
+.timer ul li {height: 53px;margin: 0 1px;padding: 10px;width: 53px}
+.timer ul li p {font-size: 7px;line-height: 5px}
+.simple-title.light p br{float:left;}
+.creative-post-detail{padding: 0 10px 0 30px}
+.creative-post-detail > h4{font-size: 16px;margin-bottom: 10px}
+.creative-post-detail .meta{margin-bottom:10px}
+.creative-post-detail > p{font-size:13px}
+.mockup-text {padding-right: 0}
+.mockup-video > img{width: 700px}
+.photography.style4 > a.coloured-btn {display: table;margin: 0 auto}
+.pagetop {padding: 200px 0 100px}
+.history-column > span {display: table}
+.history-text {display: table;padding: 20px 0 0;width: 100%}
+.company-history {padding-left: 0}
+.history-row > span {float: left;left: 0;margin-bottom: 30px; position: relative;top: 0;width: 100%}
+.company-history:before, .company-history:after{display:none;}
+.fancy-post-bar > a.more{width: 100%}
+.theme-layout.boxed{width:90%}
+}
+
+
+
+
+@media (max-width:980px){
+.column{float:left;width:100%;margin-bottom:50px;}
+.column:last-child{margin-bottom:0;}
+header{display:none;}
+.responsive-header{display:block;}
+.simple-title h2 {font-size:25px}
+.simple-title > p{font-size:14px}
+.simple-title {margin: 0 0 60px;width:100%}
+.all-services .row > div{display:inline-block;margin:0 -3px; width:50%}
+.all-services{text-align:center}
+.creative-img {display:unset;width:100%}
+.creative-detail{display:unset;float:left;padding:40px;width:100%}
+.fun-facts .row > div {display: inline-block;margin: 0 -1px;width:50%}
+.fact i{font-size:70px}
+.masonary > div {float: left;width:50%}
+.team .row > div {display: inline-block;margin: 0 -1px;width: 50%}
+.team {text-align: center}
+.big-slide-text {background: #333;float: left;left: 0;padding: 50px;position: relative;right: auto;top: 0;width: 100%;
+    -webkit-transform: translate(0);
+    -moz-transform: translate(0);
+    -ms-transform: translate(0);
+    -o-transform: translate(0);
+    transform: translate(0);
+}
+.mockup-img {display: unset;float: left;text-align: center;width:100%}
+.mockup-img img{width:100%}
+.mockup-detail {display: unset;float: left;padding-left: 0;padding-top: 40px;width: 100%}
+.blog-posts .row > div {display: inline-block;margin: 0 -1px;text-align: left;width:50%}
+.blog-posts {text-align:center}
+.sponsor li {padding: 20px;width: 33.334% !important}
+.footer-widgets .row > div {float: left;width:50%}
+.professional-team .row > div {display: inline-block;margin: 0 -2px -6px;width:50%}
+.parallax-text {background: rgba(255, 255, 255, 0.7) ;padding:40px}
+.big-product-hover > h4 {font-size: 35px}
+.big-product-hover > h4 strong {font-size: 50px}
+.big-product .coloured-btn {font-size: 12px;padding: 15px 20px}
+.masonary3 > div{float:left;width:50%}
+.work-process .row > div::before, .work-process .row > div:after{display:none}
+.about-company .row > div:last-child{margin:0}
+.about-company .row > div{float: left;width: 100%;margin-bottom:40px}
+.support-team-carousel .owl-dots {left:10px}
+.support-team-carousel .owl-dots .owl-dot {background:#fff}
+.tabs .nav li, .tabs .nav li.active{float: left;margin: 0;width:100%}
+.tabs .nav li a {width: 100%}
+.mockup-text{display: unset;float: left;padding: 40px 0;width:100%}
+.mockup2 {display: unset;float: left;width: 100%}
+.mockup2 > img {margin:0}
+.mockup-video {display: unset;float: left;width:100%}
+.mockup-video img {width:100%}
+.mockup2 > img{width:100%}
+.photography > p {margin: 30px 0;width: 100%}
+.member-detail .skills{float: left;margin-top: 30px;width: 100%}
+.mockup-iconic-features .row > div{display: unset;float: left;width: 100%;margin:20px 0;}
+.video-subsribe strong {font-size:25px;margin:40px 0;width:100%;line-height:32px}
+.team-selectors > li{padding: 2px;width: 33.334% !important}
+.perfect-team{text-align:center}
+ .perfect-team .row > div{text-align:left;}
+.simple-banner-text {display: unset;float: left;margin-bottom: 50px;padding: 0;width: 100%}
+.banner-img {display: unset;float: left;width: 100%}
+.banner-img img {width: 100%}
+.masonary2 > div{float:left;width:50%}
+.masonary4 > div{float:left;width:50%}
+.theme-layout.style2 {padding: 0 30px}
+.side-strip {width: 30px}
+.masonary2{float: left;width: 100%}
+.special-services{text-align:center}
+.theme-layout.style3{padding:0}
+.traditional-image {display: unset;float: left;width: 100%}
+.traditional-detail {display: unset;float: left;padding: 30px 0 0;width: 100%}
+.traditional-image > img {width: 100%}
+.traditional-post:nth-child(2n+2) .traditional-detail { padding: 0 0 30px}
+.gallery-slide > div {float: left;width: 33.334%}
+.pagetop{padding:80px 0}
+.pagetop h1{font-size:30px}
+.pagetop ul li{font-size:15px}
+.fancy-team{text-align:center;}
+.blog-grids.listview .fancy-post-detail {display: table;float: left;padding: 0;width: 100%}
+.blog-grids.listview .fancy-post-img{display: unset;float: left;max-width: 100%}
+.blog-grids.listview .fancy-post-img img {width: 100%}
+.cart-page table {width: 1100px}
+.cart-page {overflow: auto}
+.your-order {margin-top: 40px}
+.fancy-form form .row > div {float: left;width: 100%}
+.faqs-page .nav li {display: inline-block;float: none;margin: 5px -2px;padding: 0 10px;text-align: center;width: 33.334%}
+.faqs-page .nav{text-align: center}
+.toggle.style5 .content{padding: 30px}
+.icon-btn.style2{line-height:20px}
+.price-table.style2 .dark-btn{width: 100%}
+.single-product .row > div{ width: 100%}
+.single-product-img img{width:100%}
+.single-product-detail {float: left;margin-top: 50px;width: 100%}
+.product-tabs .tab-content{padding:20px}
+.detailed-title.style2{padding:0}
+.about-project-detail {display: unset;float: left;padding: 0;width: 100%}
+.about-project-img.lightbox {display: unset;float: left;margin-bottom: 30px;width: 100%}
+.about-project-img.lightbox img {width: 100%}
+.member-intro-inner{background: #333;float: left;padding: 30px;position: relative;top: 0;width: 100%;
+-webkit-transform: translate(0);
+-moz-transform: translate(0);
+-ms-transform: translate(0);
+-o-transform: translate(0);
+transform: translate(0);
+}
+.member-intro-inner > h4 {font-size: 20px}
+.member-intro-inner > a {margin-bottom: 10px;text-align: center;width: 100%}
+.subscribtion{width:100%}
+.layer5 {height:40px !important;width:40px !important}
+
+
+.skills-percentages .row > div,
+.price-table .row > div ,
+.modern-blog .row > div,
+.work-process .row > div,
+.traditional-services .row > div,
+.innovative-services .row > div,
+.contact-information .row > div,
+.perfect-team .row > div,
+.special-services .row > div,
+.fancy-team .row > div,
+.logos-list .row > div,
+.product-grid .row > div{display: inline-block;margin: 0 -1px;width: 50%}
+
+}
+
+
+
+
+@media (max-width:767px){
+.block .container {padding: 0 15px}
+.sponsor.style2{padding:0}
+.company-ceo strong {font-size: 25px;padding: 0 20px}
+.simple-texty h3{font-size:25px}
+.office-thumbs-wrapper{background: #4f4f4f;bottom: auto;float: left;padding: 30px;position: relative;width: 100%}
+.fancy-review-shape blockquote {display: table;width: 100%;padding: 20px 0 0}
+.news-detail{float:left;width:100%;}
+.sidebar .widget{padding:30px}
+.sidebar-tabs{margin:-30px;}
+.faqs-page .nav li{width:50%}
+.shopbar .select2-container {margin-bottom: 10px;width: 100% !important}
+.view-count{text-align: center;width: 100%}
+.view-count:before{display:none}
+.about-author > img {display: unset;float: left;width: 100%}
+.about-author-inner {display: unset; float: left;padding: 20px 0 0;width: 100%}
+.comment > img {display: unset;float: left}
+.comment-detail {display: unset;float: left;padding: 20px 0 0;width: 100%}
+.project-info {padding:30px}
+.about-project-img .play-circle {font-size: 10px;height: 40px;line-height: 40px;width: 40px}
+.comming-logo {text-align: center;width: 100%}
+.stay {margin-top: 40px;width: 100%}
+.launching h1 {font-size: 30px}
+.comming-soon-page .timer ul li {margin-top: 30px}
+.comming-soon-page.style2 .launching > span{padding: 0}
+.comming-soon-page {padding: 10px}
+.layer5 {height:30px !important;width:30px !important}
+.layer4{border:0!important;}
+
+.toggle-item h3 {font-size:12px}
+.simple-title > span{font-size:15px}
+.simple-title {padding:0 10px}
+.simple-title > p br{float:left}
+.style2 .mockup-detail > h4{font-size:30px}
+
+.icon-title > h2{font-size:25px;padding-left:10px}
+.icon-title > span,
+.mockup-text > h4{font-size:25px}
+a.play-circle {width: 45px; height: 45px;line-height: 36px;font-size: 14px;padding-top:3px}
+.video-subsribe .play-circle{line-height:37px}
+.mockup-video-text > h5{font-size:25px}
+.simple-parallax-text > h4{font-size:30px}
+}
+
+
+
+
+
+@media (max-width:480px){
+.all-services .row > div{margin:0;width:100%}
+.button-set > a {font-size: 12px;line-height: 23px;margin: 3px 0;padding: 5px 10px;width:100%}
+.creative-detail > h4 {font-size:20px}
+.creative-detail > span{font-size:12px}
+.creative-detail {padding: 40px 20px}
+.fun-facts .row > div {margin: 0;width: 100%}
+.masonary > div {width: 100%}
+.team .row > div {margin: 0;width: 100%}
+.big-slide-text a.play-circle {font-size: 20px;height: 50px;line-height: 50px;width: 50px}
+.big-slide-text > h4{font-size:25px;padding:0 20px}
+.big-slide-text > p {font-size: 12px}
+.icon-btn {font-size: 13px;padding: 20px}
+.icon-btn i {display: none}
+.big-slide-text {padding: 30px}
+.sponsor li {width: 50%!important}
+.footer-widgets .row > div{width:100%}
+.bottom-footer p {text-align: center;width:100%}
+.bottom-footer ul {text-align:center}
+.bottom-footer ul li {display: inline-block;float:none}
+.ceo-message blockquote{font-size:18px}
+.parallax-text > h5 {font-size: 20px;margin-bottom: 10px}
+.parallax-text > i {font-size: 15px;margin-bottom:10px}
+.parallax-text > span {font-size: 25px}
+.parallax-text > a {letter-spacing: 1px;margin-top: 10px;padding: 15px 20px;text-align: center}
+.title > h2 {font-size:30px}
+.masonary3 > div{width:100%}
+.detailed-title > h2{font-size:30px}
+.creative-post-img {display: unset;float: left;width: 100%}
+.creative-post-detail {display: unset;float: left;padding: 30px;width: 100%}
+.creative-post-img > img {width:100%}
+.style2 .mockup-text {padding: 40px 15px}
+.mockup-video-text {background: #cfcfcf;float: left;padding: 20px;position: relative;width: 100%}
+.team-selectors > li{width:50%!important}
+.simple-post-img{display: unset;float: left;width: 100%}
+.simple-post-detail{display: unset;float: left;padding: 30px 0 0;width: 100%}
+.simple-banner-text h3{font-size:30px}
+.banner-link > a{font-size: 20px;padding: 10px 20px}
+.simple-text-post > h4{font-size:30px}
+.masonary2 > div{width:100%}
+.gallery-slide > div {float: left;width:50%}
+.video-info h4{font-size: 21px}
+.video-info > i {font-size: 15px;margin: 10px 0}
+.masonary4 > div{width:100%}
+.error-page strong {font-size: 100px}
+.faqs-page .nav li{margin:0;width:100%}
+.layer5 {height: 20px !important;width: 20px !important}
+
+.blog-posts .row > div,
+.professional-team .row > div,
+.skills-percentages .row > div,
+.price-table .row > div,
+.modern-blog .row > div,
+.work-process .row > div,
+.traditional-services .row > div,
+.innovative-services .row > div,
+.contact-information .row > div,
+.perfect-team .row > div,
+.special-services .row > div,
+.fancy-team .row > div,
+.logos-list .row > div,
+.product-grid .row > div{margin:0;width:100%}
+.tparrows{display:none!important}
+}
