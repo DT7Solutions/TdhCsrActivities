@@ -1182,16 +1182,18 @@ resume-skills h4,
 }
 
 .subscribe-section {
-	background-image:url("../../images/1500x580.jpg");	
+	/* background-image:url("../../images/1500x580.jpg");	
+   */
+   background-color: white !important;
 }
 
-.subscribe-section-1 {
+/* .subscribe-section-1 {
 	background-image:url("../../images/overlay-1.png");
 	padding-bottom:150px;
 	padding-top:150px;
 	background-position: center center;	
 	
-}
+} */
 
 /*========================================= 15.SECTION : SUBSCRIBE END ===================================================*/
 
@@ -2446,4 +2448,30 @@ margin-bottom: 15px;
 
 }
 
-/*======================================= 20.SECTION : MEDIA QUERIES END ===============================================================*/
+.subscribe-div p{
+    color: #292929;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 26px;
+    margin: 0 auto;
+    padding-bottom: 20px;
+    text-align: justify;
+    width: 90%;
+    
+}
+
+
+/*======================================= csr popup model  ===============================================================*/
+.modal{
+  margin-top: 10%;
+}
+.modal-body .form-div .form-control{
+  margin-bottom: 10px;
+}
+.modal-header .close{
+  margin-top: -25px;
+  width: 25px;
+  height: 25px;
+  border-radius: 35px;
+  border: 1px solid goldenrod;
+}
